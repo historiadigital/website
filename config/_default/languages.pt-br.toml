@@ -1,0 +1,12 @@
+disabled = false
+languageCode = "pt-br"
+languageName = "Português"
+weight = 1
+title = "História Digital"
+
+[params]
+displayName = "Português"
+isoCode = "pt-br"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Metodologias Digitais para Historiadores Digitais"

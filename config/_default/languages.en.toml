@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "Digital History"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Digital Methods for Digital Historians"
+
